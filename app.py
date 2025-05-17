@@ -1,0 +1,3 @@
+def pokaz():
+    pass
+
