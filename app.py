@@ -2,4 +2,6 @@ def pokaz():
     pass
 
 def suma():
-    pass
+    return 10+x
+
+suma()
